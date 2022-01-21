@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554721162100",
+    "project_id": "sandsnetworks-78e90",
+    "storage_bucket": "sandsnetworks-78e90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554721162100:android:32e93b18ddcb5c4f407221",
+        "android_client_info": {
+          "package_name": "com.hussain.safeandsoundnetworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554721162100-vuahpp1hc0c2osasa071m6lqocuuttl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1mpQhar6c27soDf48OdW9bBGaQ8Yp314"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554721162100-vuahpp1hc0c2osasa071m6lqocuuttl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
